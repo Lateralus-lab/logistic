@@ -1,5 +1,5 @@
 <h1>Trans & Logistics</h1>
-<p>A mobile responsive website with multiple pages built with HTML/CSS(BEM) and JavaScript. </p>
+<p>A mobile responsive website with multiple pages built with HTML/CSS(BEM), jQuery and PHP, MySQL/SQL. </p>
 
 <a href="https://center-logistics.netlify.app/" target="_blank">Click here to view live</a>
 
