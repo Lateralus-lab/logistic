@@ -1,4 +1,4 @@
-<h1>Trans & Logistics</h1>
+<h1>Trans & Logistic</h1>
 <p>A mobile responsive website with multiple pages built with HTML/CSS(BEM), jQuery and PHP, MySQL/SQL. </p>
 
 Link:
